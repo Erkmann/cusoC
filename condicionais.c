@@ -4,7 +4,7 @@
 void main(){
 
     //defininndo variaveis
-    int a = 5, opcao = 3;
+    int a = 5, opcao = 1;
     float b = 2.5;
     char c = 'x';
 
