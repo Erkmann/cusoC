@@ -11,6 +11,4 @@ void main(){
         printf("\n o codigo da letra eh %d", letra);
     }
 
-
-
 }
